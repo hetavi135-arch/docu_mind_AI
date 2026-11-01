@@ -1,0 +1,6 @@
+{
+  "name": "DocuMind AI",
+  "description": "Turn lengthy documents into instant knowledge with intelligent PDF processing, grounded semantic Q&A, executive summaries, and interactive flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
